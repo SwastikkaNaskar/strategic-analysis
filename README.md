@@ -1,6 +1,6 @@
 # Jurixone AI: Market Entry Sequencing Analysis
 
-A consulting case study analyzing why Delhi-NCR is a smarter launch market than Bengaluru for Jurixone AI.
+A consulting case study analyzing why Delhi-NCR is a smarter launch market than Bengaluru for Jurix AI.
 
 **Key Findings:**
 - Delhi-NCR offers 3x larger TAM with lower competitive density
